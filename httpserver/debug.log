@@ -1,0 +1,8 @@
+logger: f:/Gitee/goTest/httpserver/app.go:52: 231
+logger: f:/Gitee/goTest/httpserver/app.go:52: 231
+logger: f:/Gitee/goTest/httpserver/app.go:52: 231
+logger: f:/Gitee/goTest/httpserver/logs/log.go:53: ddd [1]
+logger: f:/Gitee/goTest/httpserver/logs/log.go:53: ddd%d [1]
+logger: f:/Gitee/goTest/httpserver/logs/log.go:53: ddd[1]
+logger: f:/Gitee/goTest/httpserver/logs/log.go:53: ddd[1]
+logger: f:/Gitee/goTest/httpserver/logs/log.go:53: ddd1

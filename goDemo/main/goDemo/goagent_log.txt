@@ -1,0 +1,6 @@
+[2018/07/06 09:36:36 CST] [EROR] (goDemo/logger.(*PrefixLogger).Error:139) [fileControl] 未查找到uuid%!(EXTRA string=cmf0704_2)
+[2018/07/06 09:36:38 CST] [EROR] (goDemo/logger.(*PrefixLogger).Error:139) [fileControl] 未查找到uuid%!(EXTRA string=testusername)
+[2018/07/06 09:36:39 CST] [EROR] (goDemo/logger.(*PrefixLogger).Error:139) [fileControl] 未查找到uuid%!(EXTRA string=user2.1)
+[2018/07/06 09:36:41 CST] [EROR] (goDemo/logger.(*PrefixLogger).Error:139) [fileControl] 未查找到uuid%!(EXTRA string=ts)
+[2018/07/06 09:36:42 CST] [EROR] (goDemo/logger.(*PrefixLogger).Error:139) [fileControl] 未查找到uuid%!(EXTRA string=cmf0704_10)
+[2018/07/06 09:37:00 CST] [DEBG] (goDemo/logger.(*PrefixLogger).Debug:127) [fileControl] 打开文件设备失败！
